@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\bin\Debug\netcoreapp3.1\ContaBancariaAula60.exe
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\bin\Debug\netcoreapp3.1\ContaBancariaAula60.deps.json
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\bin\Debug\netcoreapp3.1\ContaBancariaAula60.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\bin\Debug\netcoreapp3.1\ContaBancariaAula60.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\bin\Debug\netcoreapp3.1\ContaBancariaAula60.dll
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\bin\Debug\netcoreapp3.1\ContaBancariaAula60.pdb
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\obj\Debug\netcoreapp3.1\ContaBancariaAula60.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\obj\Debug\netcoreapp3.1\ContaBancariaAula60.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\obj\Debug\netcoreapp3.1\ContaBancariaAula60.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\obj\Debug\netcoreapp3.1\ContaBancariaAula60.dll
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\obj\Debug\netcoreapp3.1\ContaBancariaAula60.pdb
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\obj\Debug\netcoreapp3.1\ContaBancariaAula60.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ContaBancariaAula60\ContaBancariaAula60\obj\Debug\netcoreapp3.1\ContaBancariaAula60.genruntimeconfig.cache
